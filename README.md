@@ -4,4 +4,4 @@ This project is information from 10 different shopping malls between 2021 and 20
 I focused on data cleansing and training the model using a Decision Tree and Naive Bayes.
 
 Data set from Kaggle
-## Here is the link to the data set : https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
+**Here is the link to the data set :** https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
